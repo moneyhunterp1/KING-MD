@@ -15,7 +15,12 @@
 ## 🚀 Deployment Set Up
 
 1. **Fork the Repository**  
-   [FORK KING-M](https://github.com/makamesco/KING-M/fork)
+   <p>
+  <a href="https://github.com/sesco001/KING-MD/fork" target="_blank">
+    <img src="https://img.shields.io/badge/Fork--Repository-black?style=for-the-badge&logo=github" alt="Fork KING-MD on GitHub">
+  </a>
+</p>
+
 
 2. **Pair Code Setup**  
    <p align="center">
@@ -24,18 +29,13 @@
      </a>
    </p>
 
-3. **Deployment Platforms**  
-<p align="center">
-  <a href="https://makamesco-host.vercel.app">
-    <img src="https://img.shields.io/badge/Makamesco--Host-techpurple?style=for-the-badge&logo=vercel" alt="Makamesco Host">
-  </a>
-  <a href="https://dashboard.katabump.com/auth/login#ce51a9">
-    <img src="https://img.shields.io/badge/KataBump--Dashboard-black?style=for-the-badge&logo=katabump" alt="KataBump Dashboard">
-  </a>
-  <a href="https://heroku.com/deploy?template=https://github.com/makamesco/KING-M">
-    <img src="https://img.shields.io/badge/Deploy--to--Heroku-indigo?style=for-the-badge&logo=heroku" alt="Deploy KING-M">
+3. **Deploy on Heroku**  
+<p>
+  <a href="https://veriiiiii.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Deploy--to--Heroku-indigo?style=for-the-badge&logo=heroku" alt="Deploy KING-MD">
   </a>
 </p>
+
 
 ---
 
